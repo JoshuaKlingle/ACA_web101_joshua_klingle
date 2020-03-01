@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Joe Bloggs - Curriculum Vitae</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of Joe Bloggs."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="https://vignette.wikia.nocookie.net/buffy/images/6/6b/End_of_Days_Buffy_01.jpg/revision/latest?cb=20190929175945"alt="buffy with scyth">
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Buffy Anne Summers</h1>
+			<h2 class="quickFade delayThree">Vampire Slayer</h2>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>e: <a href="mailto:joe@bloggs.com" target="_blank">BtVS@gmail.com</a></li>
+				<li>w: <a href="http://www.bloggs.com">BtVS.com</a></li>
+				<li>m: 01234567890</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Personal Profile</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>The Chosen One.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Work Experience</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Vampire Slayer at Sunnydale Highschool</h2>
+					<p class="subDetails">March 1997 - 1999</p>
+					<p> Fought dilegently against the forces of darkness. Team player, working closely with my watcher and other members of the Scooby gang. Accepted transfer when I was forced to blow up the school to defeat a giant snake. </p>
+				</article>
+				
+				<article>
+					<h2>Vampire Slayer at University of California Sunnydale</h2>
+					<p class="subDetails">October 1999 - 2001</p>
+					<p>  Showed great ability to multitask while balancing Slaying and a full time college ciriculim. Majored in Psycology. Minored in Govornment and Robotics.</p>
+				</article>
+				
+				<article>
+					<h2>Cashier/ Fry Cook at The Doublemeat Palace</h2>
+					<p class="subDetails">January 2002 - Feburary 2002</p>
+					<p>Even a Slayer needs to pay bills</p>
+				</article>
+
+				<article>
+					<h2>School Conselor at Sunnydale Highschool</h2>
+					<p class="subDetails">October 2002 - May 2003</p>
+					<p>Offered counsiling to students while battling the first evil and monitoring the hellmouth loacated in the basment until I was again, forced to blow up the school to save the world from being sucked into hell.
+					</p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Key Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>Super Strength</li>
+					<li>Prophetic dreams</li>
+					<li>Stabbing</li>
+					<li>Beheading</li>
+					<li>Eye for fashion</li>
+					<li>Scyth skills</li>
+					<li>Widdling</li>
+					<li>Died twice</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Universtiy of California Sunnydale</h2>
+					<p class="subDetails">Drop Out</p>
+					<p>Was unfortunaltly unable to finish the course due to the professor being killed by her own horrific frankenstein creation</p>
+				</article>
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3753241-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
